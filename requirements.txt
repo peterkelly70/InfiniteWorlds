@@ -1,0 +1,4 @@
+PyQt6==6.6.1
+PyQt6-Charts==6.8.0
+SQLAlchemy==2.0.23
+pytest==7.4.3
